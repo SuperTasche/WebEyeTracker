@@ -1,5 +1,5 @@
 # WebEyeTracker
-This app uses a websocket server to obtain webcam images from a client and serve the coordinates of eye positions back to the client.  
+This app uses a websocket server to obtain webcam images from a client and serve the coordinates of eye positions back to the client. For the computation of eye positions dlib's facial landmark detector is used working on a pre-trained [5-face-landmarks model](http://dlib.net/files/shape_predictor_5_face_landmarks.dat.bz2).
 The app was tested with Python 3.7 and Chrome.
 
 # Setup
