@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>OpenCV EyeTracking</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+  <div id="container">
+    <canvas class="center-block" id="canvasOutput" width="320" height="240"></canvas>
+    <div class="invisible">
+      <video id="webcam" width="320" height="240">Your browser does not support the video tag.</video>
+    </div>
+    <script async src="script.js" type="text/javascript"></script>
+    <script async src="opencv.js" onload="opencvIsReady()" type="text/javascript"></script>
+  </body>
+</html>

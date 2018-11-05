@@ -1,0 +1,10 @@
+canvas {
+  border: 1px solid black;
+}
+.invisible {
+  display: none;
+}
+.center-block {
+  display: block;
+  margin: auto;
+}
