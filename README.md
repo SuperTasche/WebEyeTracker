@@ -12,7 +12,9 @@ Following dependencies have to be installed:
 Start the server on port 9000:  
 `python app.py`
 
-You can then open the `index.html` in a browser to establish a connection to the server and display the eye positions from your webcam video. Be aware that wearing reflecting glasses will impact detection results!
+Wait for console confirmation.
+
+You can now open the `index.html` in a browser to establish a connection to the server and display the eye positions from your webcam video. Be aware that wearing reflecting glasses will impact detection results!
 
 The project is based on the following articles:  
 * [Facial Landmark Detection with OpenCV and Dlib](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)  
