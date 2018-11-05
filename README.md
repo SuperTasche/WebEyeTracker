@@ -15,5 +15,5 @@ Start the server on port 9000:
 You can then open the `index.html` in a browser to establish a connection to the server and display the eye positions from your webcam video. Be aware that wearing reflecting glasses will impact detection results!
 
 The project is based on the following articles:  
-* [Facial Landmark Detection with OpenCV and Dlib](https://www.pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/)  
+* [Facial Landmark Detection with OpenCV and Dlib](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)  
 * [Augmented Reality with OpenCV, Three.js and WebSockets](https://www.smashingmagazine.com/2016/02/simple-augmented-reality-with-opencv-a-three-js/)
